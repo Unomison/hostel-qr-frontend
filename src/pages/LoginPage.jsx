@@ -152,7 +152,7 @@ const DemoPanel = ({ onFill }) => {
 
             <div className="px-4 pb-3 pt-0">
               <p className="text-xs text-slate-600 text-center">
-                For demo/testing purposes only
+               Login as student->laptop/mobile & as Guard->other SmartPhone.
               </p>
             </div>
           </div>
